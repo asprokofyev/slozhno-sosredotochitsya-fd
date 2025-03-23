@@ -23,3 +23,7 @@
   background-color: var(--accent-color);
   color: var(--background-color);
 }
+
+.theme-dark .h2-title {
+  color: var(--accent-color);
+}
