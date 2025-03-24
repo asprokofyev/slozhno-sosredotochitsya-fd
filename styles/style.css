@@ -33,7 +33,7 @@ body {
   color: var(--background-color);
 }
 
-.h2-title {
+.chapter-title {
   font-family: var(--font-family);
   font-weight: bold;
   font-size: var(--text-font-size);
